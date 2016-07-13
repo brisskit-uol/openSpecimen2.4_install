@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rev:enumeratedVariable xmlns:rev="http://briccs.org.uk/xml/onyxmetadata-rev/v1.0/rev" code="CAT:S.BodyCavityFluid.location" hlevel="4" name="location" path="\catissue\Fluid\BodyCavityFluid\S\location" type="LOCATION">
+<rev:variable code="CAT:S.BodyCavityFluid.location:Glenfield_Hospital" description="Glenfield_Hospital" name="Glenfield_Hospital"/>
+</rev:enumeratedVariable>

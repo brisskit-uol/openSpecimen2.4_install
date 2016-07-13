@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rev:enumeratedVariable xmlns:rev="http://briccs.org.uk/xml/onyxmetadata-rev/v1.0/rev" code="CAT:S.BodyCavityFluid.protocol" hlevel="4" name="protocol" path="\catissue\Fluid\BodyCavityFluid\S\protocol" type="PROTOCOL">
+<rev:variable code="CAT:S.BodyCavityFluid.protocol:Anz_P_CP" description="Anz_P_CP" name="Anz_P_CP"/>
+</rev:enumeratedVariable>

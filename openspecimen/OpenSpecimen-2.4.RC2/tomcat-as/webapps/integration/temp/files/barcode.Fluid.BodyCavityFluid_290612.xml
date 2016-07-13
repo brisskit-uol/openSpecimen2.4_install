@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rev:enumeratedVariable xmlns:rev="http://briccs.org.uk/xml/onyxmetadata-rev/v1.0/rev" code="CAT:S.BodyCavityFluid.barcode" hlevel="4" name="barcode" path="\catissue\Fluid\BodyCavityFluid\S\barcode" type="BARCODE">
+<rev:variable code="CAT:S.BodyCavityFluid.barcode:3" description="3" name="3"/>
+<rev:variable code="CAT:S.BodyCavityFluid.barcode:3_1" description="3_1" name="3_1"/>
+<rev:variable code="CAT:S.BodyCavityFluid.barcode:3_2" description="3_2" name="3_2"/>
+<rev:variable code="CAT:S.BodyCavityFluid.barcode:4" description="4" name="4"/>
+</rev:enumeratedVariable>

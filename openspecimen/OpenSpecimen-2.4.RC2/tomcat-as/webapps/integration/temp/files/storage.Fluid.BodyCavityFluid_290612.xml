@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rev:enumeratedVariable xmlns:rev="http://briccs.org.uk/xml/onyxmetadata-rev/v1.0/rev" code="CAT:S.BodyCavityFluid.storage" hlevel="4" name="storage" path="\catissue\Fluid\BodyCavityFluid\S\storage" type="STORAGE">
+<rev:variable code="CAT:S.BodyCavityFluid.storage:GH_Box1_3-1:1" description="GH_Box1_3-1:1" name="GH_Box1_3-1:1"/>
+<rev:variable code="CAT:S.BodyCavityFluid.storage:GH_Box1_3-1:3" description="GH_Box1_3-1:3" name="GH_Box1_3-1:3"/>
+<rev:variable code="CAT:S.BodyCavityFluid.storage:GH_Box1_3-1:4" description="GH_Box1_3-1:4" name="GH_Box1_3-1:4"/>
+<rev:variable code="CAT:S.BodyCavityFluid.storage:GH_Box1_3-1:2" description="GH_Box1_3-1:2" name="GH_Box1_3-1:2"/>
+</rev:enumeratedVariable>
